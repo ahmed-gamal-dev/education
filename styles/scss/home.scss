@@ -1,0 +1,1260 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.home-GKk {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  .top-nav-Eft {
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 0rem 3.234rem 0rem 3.2rem;
+    width: 100%;
+    height: 9.6rem;
+    display: flex;
+    align-items: center;
+    background-color: #1d1f26;
+
+    .buttons-WQS {
+      letter-spacing: -0.0128rem;
+      text-transform: capitalize;
+      color: #ffffff;
+      box-sizing: border-box;
+      padding: 0rem 0.5rem 0rem 2.4rem;
+      height: calc(100% - 4.8rem);
+      line-height: 3;
+      white-space: nowrap;
+      margin: 2.4rem 54.35rem 2.4rem 0rem;
+      font-size: 1.6rem;
+      font-weight: 600;
+      font-family: Cairo, 'Source Sans Pro';
+      background-color: #ff6636;
+      flex-shrink: 0;
+    }
+    .nav-links-uL6 {
+      margin-right: 54.4064rem;
+      height: 100%;
+      display: flex;
+      column-gap: 0.8rem;
+      align-items: center;
+      flex-shrink: 0;
+
+      .nav-link-aSE {
+        width: 10.7rem;
+        height: 100%;
+        color: #8c94a3;
+        white-space: nowrap;
+        display: flex;
+        justify-content: center;
+        font-size: 1.6rem;
+        font-family: Cairo, 'Source Sans Pro';
+        background-color: #1d1f26;
+        font-weight: 500;
+        line-height: 1.25;
+        flex-shrink: 0;
+        letter-spacing: -0.016rem;
+        align-items: center;
+      }
+      .nav-link-kk2 {
+        height: 100%;
+        font-weight: 500;
+        font-family: Cairo, 'Source Sans Pro';
+        font-size: 1.6rem;
+        line-height: 1.25;
+        color: #8c94a3;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        width: 5.6rem;
+        letter-spacing: -0.016rem;
+        white-space: nowrap;
+        display: flex;
+        background-color: #1d1f26;
+      }
+      .nav-link-Crv {
+        letter-spacing: -0.016rem;
+        color: #8c94a3;
+        display: flex;
+        justify-content: center;
+        height: 100%;
+        white-space: nowrap;
+        background-color: #1d1f26;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        line-height: 1.25;
+        font-family: Cairo, 'Source Sans Pro';
+        font-weight: 500;
+        align-items: center;
+        width: 8.4rem;
+      }
+      .nav-link-c9x {
+        height: 100%;
+        font-family: Cairo, 'Source Sans Pro';
+        align-items: center;
+        justify-content: center;
+        font-size: 1.6rem;
+        font-weight: 500;
+        color: #8c94a3;
+        width: 11.7rem;
+        display: flex;
+        background-color: #1d1f26;
+        flex-shrink: 0;
+        line-height: 1.25;
+        letter-spacing: -0.016rem;
+        white-space: nowrap;
+      }
+      .nav-link-1Sz {
+        font-size: 1.6rem;
+        background-color: #1d1f26;
+        width: 7.6rem;
+        font-weight: 500;
+        letter-spacing: -0.016rem;
+        white-space: nowrap;
+        display: flex;
+        justify-content: center;
+        height: 100%;
+        line-height: 1.25;
+        color: #8c94a3;
+        font-family: Cairo, 'Source Sans Pro';
+        align-items: center;
+        flex-shrink: 0;
+      }
+      .nav-link-3ea {
+        font-weight: 500;
+        font-family: Cairo, 'Source Sans Pro';
+        box-sizing: border-box;
+        width: 8.3rem;
+        color: #ffffff;
+        line-height: 1.25;
+        letter-spacing: -0.016rem;
+        white-space: nowrap;
+        display: flex;
+        align-items: center;
+        background-color: #1d1f26;
+        height: 100%;
+        font-size: 1.6rem;
+        justify-content: center;
+        border: solid 0.1rem #ff6636;
+        flex-shrink: 0;
+      }
+    }
+    .logo-s7p {
+      height: calc(100% - 7.0576rem);
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 3.548rem 0rem 3.51rem 0rem;
+
+      .vector-w7g {
+        width: 1.2684rem;
+        height: 2.002rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 0.061rem 0.54rem 0rem;
+      }
+      .vector-Bni {
+        margin: 0rem 0.099rem 0.006rem 0rem;
+        width: 1.5428rem;
+        height: 1.5288rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .vector-FGn {
+        margin: 0.504rem 0.184rem 0rem 0rem;
+        width: 1.512rem;
+        height: 2.0384rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .vector-8La {
+        margin-bottom: 0.0056rem;
+        width: 1.5428rem;
+        height: 1.5288rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .become-an-instructor-cmY {
+    background-repeat: no-repeat;
+    background-image: url('REPLACE_IMAGE:5c98509aaa55d059e6a524c076a1851aa5be00e1');
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 8rem 63.55rem;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.200000003);
+    background-size: 100% 100%;
+    height: 44.6rem;
+    background-position: center;
+
+    .info-j5U {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      height: 100%;
+
+      .frame-338-FZc {
+        flex-shrink: 0;
+        margin-bottom: 4rem;
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .item--mXx {
+          text-transform: capitalize;
+          color: #ffffff;
+          margin-bottom: 3.2rem;
+          max-width: 64.9rem;
+          font-weight: 600;
+          font-family: Cairo, 'Source Sans Pro';
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 4.5rem;
+          line-height: 1.3111111111;
+        }
+        .item--PSr {
+          font-family: Cairo, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3333333333;
+          color: rgba(255, 255, 255, 0.75);
+        }
+      }
+      .buttons-EiN {
+        text-transform: capitalize;
+        color: #ffffff;
+        font-family: Cairo, 'Source Sans Pro';
+        display: flex;
+        margin: 0 23.55rem;
+        height: 6.4rem;
+        font-size: 2rem;
+        font-weight: 600;
+        justify-content: center;
+        background-color: #ff6636;
+        align-items: center;
+        flex-shrink: 0;
+        white-space: nowrap;
+        width: calc(100% - 47.1rem);
+        line-height: 3.2;
+        letter-spacing: -0.02rem;
+      }
+    }
+  }
+  .frame-297-RXx {
+    flex-shrink: 0;
+    column-gap: 2.4rem;
+    padding: 8rem 30rem;
+    width: 100%;
+    height: 55.4rem;
+    display: flex;
+    align-items: center;
+    background-color: #f5f7fa;
+    box-sizing: border-box;
+
+    .steps-9D4 {
+      background-color: #ffffff;
+      flex-shrink: 0;
+      height: 100%;
+      flex-direction: column;
+      width: 31.2rem;
+      align-items: center;
+      display: flex;
+      box-sizing: border-box;
+      padding: 2.4rem;
+
+      .frame-333-5cW {
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-bottom: 2.4rem;
+        width: 100%;
+        align-items: center;
+        display: flex;
+
+        .icons-dP8 {
+          margin-bottom: 2.4rem;
+          width: 8.8rem;
+          height: 8.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .content-AP4 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          width: 100%;
+          align-items: center;
+
+          .item--hNz {
+            font-weight: 500;
+            color: #1d1f26;
+            white-space: nowrap;
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 1.8rem;
+            font-family: Cairo, 'Source Sans Pro';
+            margin-bottom: 1.2rem;
+            line-height: 1.3333333333;
+          }
+          .item--HEi {
+            text-align: center;
+            letter-spacing: -0.014rem;
+            color: #6e7484;
+            font-family: Cairo, 'Source Sans Pro';
+            flex-shrink: 0;
+            max-width: 26.4rem;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.5714285714;
+          }
+        }
+      }
+      .buttons-3Fp {
+        width: calc(100% - 8.6rem);
+        height: 6.4rem;
+        font-weight: 600;
+        line-height: 3.2;
+        letter-spacing: -0.02rem;
+        display: flex;
+        justify-content: center;
+        margin: 0 4.3rem;
+        align-items: center;
+        flex-shrink: 0;
+        font-family: Cairo, 'Source Sans Pro';
+        color: #ffffff;
+        text-transform: capitalize;
+        white-space: nowrap;
+        background-color: #ff6636;
+        font-size: 2rem;
+      }
+    }
+    .steps-uop {
+      width: 31.2rem;
+      height: 100%;
+      align-items: center;
+      background-color: #ffffff;
+      box-sizing: border-box;
+      padding: 2.4rem;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .frame-332-3v2 {
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-bottom: 6.8rem;
+
+        .icons-yog {
+          margin-bottom: 2.4rem;
+          width: 8.8rem;
+          height: 8.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .content-imG {
+          flex-direction: column;
+          flex-shrink: 0;
+          width: 100%;
+          align-items: center;
+          display: flex;
+
+          .item--HJa {
+            text-align: center;
+            font-family: Cairo, 'Source Sans Pro';
+            line-height: 1.3333333333;
+            color: #1d1f26;
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-bottom: 1.2rem;
+            font-size: 1.8rem;
+            font-weight: 500;
+          }
+          .item--yBQ {
+            font-family: Cairo, 'Source Sans Pro';
+            max-width: 26.4rem;
+            font-size: 1.4rem;
+            line-height: 1.5714285714;
+            letter-spacing: -0.014rem;
+            text-align: center;
+            font-weight: 400;
+            color: #6e7484;
+            flex-shrink: 0;
+          }
+        }
+      }
+      .buttons-UXU {
+        margin: 0 4.3rem;
+        height: 6.4rem;
+        color: #ffffff;
+        flex-shrink: 0;
+        font-size: 2rem;
+        letter-spacing: -0.02rem;
+        display: flex;
+        background-color: #ff6636;
+        width: calc(100% - 8.6rem);
+        text-transform: capitalize;
+        align-items: center;
+        justify-content: center;
+        font-weight: 600;
+        line-height: 3.2;
+        font-family: Cairo, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+    }
+    .steps-kUz {
+      padding: 2.4rem 2.35rem;
+      width: 31.2rem;
+      height: 100%;
+      align-items: center;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      background-color: #ffffff;
+      flex-shrink: 0;
+
+      .frame-331-gtS {
+        margin-bottom: 4.6rem;
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .icons-e4a {
+          margin-bottom: 2.4rem;
+          width: 8.8rem;
+          height: 8.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .content-PH4 {
+          width: 100%;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .item-19-kdQ {
+            margin-bottom: 1.2rem;
+            font-size: 1.8rem;
+            line-height: 1.3333333333;
+            flex-shrink: 0;
+            text-align: center;
+            font-weight: 500;
+            color: #1d1f26;
+            font-family: Cairo, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .item-19--T22 {
+            max-width: 26.5rem;
+            font-size: 1.4rem;
+            font-family: Cairo, 'Source Sans Pro';
+            letter-spacing: -0.014rem;
+            color: #6e7484;
+            flex-shrink: 0;
+            text-align: center;
+            font-weight: 400;
+            line-height: 1.5714285714;
+          }
+        }
+      }
+      .buttons-8nN {
+        justify-content: center;
+        background-color: #ff6636;
+        width: calc(100% - 8.7rem);
+        font-weight: 600;
+        font-family: Cairo, 'Source Sans Pro';
+        color: #ffffff;
+        margin: 0 4.35rem;
+        font-size: 2rem;
+        letter-spacing: -0.02rem;
+        height: 6.4rem;
+        text-transform: capitalize;
+        align-items: center;
+        flex-shrink: 0;
+        line-height: 3.2;
+        white-space: nowrap;
+        display: flex;
+      }
+    }
+    .steps-cSe {
+      padding: 2.4rem 2.45rem;
+      width: 31.2rem;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #ffffff;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      align-items: center;
+
+      .frame-330-xWW {
+        margin-bottom: 6.8rem;
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .icons-WH8 {
+          margin-bottom: 2.4rem;
+          width: 8.8rem;
+          height: 8.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .content-ZWJ {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          width: 100%;
+          align-items: center;
+
+          .item--vbk {
+            white-space: nowrap;
+            line-height: 1.3333333333;
+            text-align: center;
+            font-size: 1.8rem;
+            font-weight: 500;
+            color: #1d1f26;
+            font-family: Cairo, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin-bottom: 1.2rem;
+          }
+          .item--pBL {
+            text-align: center;
+            font-size: 1.4rem;
+            line-height: 1.5714285714;
+            letter-spacing: -0.014rem;
+            font-family: Cairo, 'Source Sans Pro';
+            max-width: 26.3rem;
+            font-weight: 400;
+            color: #6e7484;
+            flex-shrink: 0;
+          }
+        }
+      }
+      .buttons-yiS {
+        margin: 0 4.25rem;
+        color: #ffffff;
+        white-space: nowrap;
+        display: flex;
+        font-size: 2rem;
+        line-height: 3.2;
+        text-transform: capitalize;
+        flex-shrink: 0;
+        width: calc(100% - 8.5rem);
+        align-items: center;
+        height: 6.4rem;
+        font-weight: 600;
+        letter-spacing: -0.02rem;
+        font-family: Cairo, 'Source Sans Pro';
+        justify-content: center;
+        background-color: #ff6636;
+      }
+    }
+  }
+  .school-word-r1Y {
+    align-items: center;
+    background-color: #ffeee8;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 8rem 30rem;
+    width: 100%;
+    height: 69.2rem;
+    display: flex;
+
+    .frame-337-aiE {
+      flex-shrink: 0;
+      margin-right: 7.9rem;
+      width: 62rem;
+      height: 100%;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+
+      .frame-334-Wbt {
+        align-items: flex-end;
+        flex-shrink: 0;
+        margin: 0rem 3.75rem 2rem 3.75rem;
+        width: calc(100% - 7.5rem);
+        display: flex;
+        column-gap: 2.4rem;
+
+        .item-03-pca {
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 12.8rem;
+          height: 13.2rem;
+          object-fit: cover;
+        }
+        .item-05-YYa {
+          width: 26.4rem;
+          height: 18.8rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .item-02-gug {
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 10.5rem;
+          height: 13.2rem;
+        }
+      }
+      .frame-336-2yY {
+        align-items: center;
+        flex-shrink: 0;
+        width: 100%;
+        height: 32.4rem;
+        display: flex;
+
+        .auto-group-1emy-BbY {
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding-right: 2.4rem;
+          height: 100%;
+          display: flex;
+          align-items: flex-start;
+
+          .item-01-X9c {
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-right: 2.4rem;
+            width: 15.5rem;
+            height: 12rem;
+          }
+          .item-04-4QS {
+            flex-shrink: 0;
+            width: 22.1rem;
+            height: 24.8rem;
+            object-fit: cover;
+            vertical-align: top;
+          }
+        }
+        .frame-335-bvA {
+          height: 100%;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .item-07-xVp {
+            margin-bottom: 2.4rem;
+            width: 19.6rem;
+            height: 17.2rem;
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .item-06-Vke {
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 12.4rem;
+            height: 12.8rem;
+          }
+        }
+      }
+    }
+    .frame-299-qJi {
+      height: calc(100% - 4.6rem);
+      align-items: flex-end;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      margin: 2.3rem 0;
+      width: 62.1rem;
+
+      .item--aGJ {
+        flex-shrink: 0;
+        font-weight: 600;
+        line-height: 1.2;
+        letter-spacing: -0.04rem;
+        color: #1d1f26;
+        white-space: nowrap;
+        margin-bottom: 2.4rem;
+        text-align: right;
+        font-size: 4rem;
+        font-family: Cairo, 'Source Sans Pro';
+      }
+      .frame-341-3va {
+        width: 100%;
+        align-items: flex-end;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .item--1sQ {
+          color: #ff6636;
+          flex-shrink: 0;
+          text-align: right;
+          font-weight: 500;
+          line-height: 1.375;
+          font-family: Cairo, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-bottom: 0.8rem;
+          font-size: 1.6rem;
+        }
+        .item--twC {
+          color: #6e7484;
+          flex-shrink: 0;
+          max-width: 62.1rem;
+          text-align: right;
+          line-height: 1.7777777778;
+          letter-spacing: -0.027rem;
+          font-family: Cairo, 'Source Sans Pro';
+          font-size: 1.8rem;
+          font-weight: 400;
+        }
+      }
+    }
+  }
+  .auto-group-eu1l-KW2 {
+    position: relative;
+    flex-shrink: 0;
+    width: 100%;
+    height: 109.1rem;
+
+    .contact-us-4iW {
+      padding: 8rem 24.6rem 0rem 30rem;
+      top: 0;
+      display: flex;
+      box-sizing: border-box;
+      width: 192rem;
+      height: 103.7rem;
+      position: absolute;
+      left: 0;
+      align-items: flex-start;
+      background-color: #f5f7fa;
+
+      .contents-wnJ {
+        box-sizing: border-box;
+        padding: 4rem;
+        row-gap: 3.2rem;
+        align-items: flex-end;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-right: 7.7rem;
+        width: 62rem;
+        background-color: #ffffff;
+
+        .heading-GJn {
+          align-items: flex-end;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .item--pr6 {
+            font-size: 2.4rem;
+            color: #1d1f26;
+            flex-shrink: 0;
+            line-height: 1.3333333333;
+            font-family: Cairo, 'Source Sans Pro';
+            white-space: nowrap;
+            margin-bottom: 1.2rem;
+            text-align: right;
+            font-weight: 400;
+          }
+          .item--veE {
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #8c94a3;
+            font-family: Cairo, 'Source Sans Pro';
+            flex-shrink: 0;
+            max-width: 53.9rem;
+            text-align: right;
+          }
+        }
+        .from-KAa {
+          width: 100%;
+          row-gap: 1.6rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .frame-339-U3U {
+            width: 100%;
+            height: 7.3rem;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .input-field-RUW {
+              position: relative;
+              align-items: flex-end;
+              display: flex;
+              flex-shrink: 0;
+              overflow: hidden;
+              width: 26.2rem;
+              height: 100%;
+              flex-direction: column;
+              margin-right: 1.6rem;
+
+              .item--LbU {
+                font-size: 1.4rem;
+                font-weight: 400;
+                letter-spacing: -0.014rem;
+                color: #1d1f26;
+                font-family: Cairo, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                margin-bottom: 0.6rem;
+                line-height: 1.5714285714;
+              }
+              .input-field-Rcv {
+                width: 100%;
+                font-size: 1.6rem;
+                background-color: #ffffff;
+                box-sizing: border-box;
+                position: relative;
+                font-weight: 400;
+                color: #8c94a3;
+                overflow: hidden;
+                line-height: 1.5;
+                white-space: nowrap;
+                border: solid 0.1rem #e8eaef;
+                padding: 1.05rem 1.3rem 1.05rem 18.5rem;
+                font-family: Cairo, 'Source Sans Pro';
+                flex-shrink: 0;
+              }
+            }
+            .input-field-Hf8 {
+              flex-shrink: 0;
+              width: 26.2rem;
+              height: 100%;
+              overflow: hidden;
+              position: relative;
+              align-items: flex-end;
+              display: flex;
+              flex-direction: column;
+
+              .item--qge {
+                letter-spacing: -0.014rem;
+                flex-shrink: 0;
+                margin-bottom: 0.6rem;
+                font-size: 1.4rem;
+                font-weight: 400;
+                line-height: 1.5714285714;
+                color: #1d1f26;
+                font-family: Cairo, 'Source Sans Pro';
+                white-space: nowrap;
+              }
+              .input-field-AU2 {
+                color: #8c94a3;
+                overflow: hidden;
+                width: 100%;
+                flex-shrink: 0;
+                box-sizing: border-box;
+                font-size: 1.6rem;
+                font-weight: 400;
+                line-height: 1.5;
+                border: solid 0.1rem #e8eaef;
+                background-color: #ffffff;
+                padding: 1.05rem 1.5rem 1.05rem 17.2rem;
+                font-family: Cairo, 'Source Sans Pro';
+                white-space: nowrap;
+                position: relative;
+              }
+            }
+          }
+          .frame-340-3Xp {
+            height: 7.3rem;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            width: 100%;
+
+            .input-field-C9p {
+              width: 26.2rem;
+              height: 100%;
+              flex-shrink: 0;
+              margin-right: 1.6rem;
+              overflow: hidden;
+              position: relative;
+              align-items: flex-end;
+              display: flex;
+              flex-direction: column;
+
+              .item--XSz {
+                color: #1d1f26;
+                font-family: Cairo, 'Source Sans Pro';
+                flex-shrink: 0;
+                margin: 0rem 0.1rem 0.6rem 0rem;
+                font-size: 1.4rem;
+                line-height: 1.5714285714;
+                font-weight: 400;
+                letter-spacing: -0.014rem;
+                white-space: nowrap;
+              }
+              .input-field-E6W {
+                box-sizing: border-box;
+                overflow: hidden;
+                position: relative;
+                font-size: 1.6rem;
+                line-height: 1.5;
+                color: #8c94a3;
+                padding: 1.05rem 1.2rem 1.05rem 13.2rem;
+                white-space: nowrap;
+                border: solid 0.1rem #e8eaef;
+                background-color: #ffffff;
+                flex-shrink: 0;
+                font-weight: 400;
+                font-family: Cairo, 'Source Sans Pro';
+                width: 100%;
+              }
+            }
+            .input-field-tRx {
+              flex-direction: column;
+              flex-shrink: 0;
+              width: 26.2rem;
+              height: 100%;
+              overflow: hidden;
+              position: relative;
+              align-items: flex-end;
+              display: flex;
+
+              .item--eAE {
+                letter-spacing: -0.014rem;
+                color: #1d1f26;
+                flex-shrink: 0;
+                margin-bottom: 0.6rem;
+                font-weight: 400;
+                font-family: Cairo, 'Source Sans Pro';
+                white-space: nowrap;
+                font-size: 1.4rem;
+                line-height: 1.5714285714;
+              }
+              .input-field-YFc {
+                overflow: hidden;
+                font-size: 1.6rem;
+                line-height: 1.5;
+                color: #8c94a3;
+                background-color: #ffffff;
+                width: 100%;
+                position: relative;
+                font-weight: 400;
+                font-family: Cairo, 'Source Sans Pro';
+                white-space: nowrap;
+                box-sizing: border-box;
+                flex-shrink: 0;
+                padding: 1.05rem 1rem 1.05rem 10.9rem;
+                border: solid 0.1rem #e8eaef;
+              }
+            }
+          }
+          .input-field-2Rg {
+            flex-direction: column;
+            flex-shrink: 0;
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+            align-items: flex-end;
+            display: flex;
+
+            .item--PGE {
+              flex-shrink: 0;
+              font-weight: 400;
+              letter-spacing: -0.014rem;
+              color: #1d1f26;
+              font-family: Cairo, 'Source Sans Pro';
+              margin-bottom: 0.6rem;
+              font-size: 1.4rem;
+              line-height: 1.5714285714;
+              white-space: nowrap;
+            }
+            .input-field-WLr {
+              box-sizing: border-box;
+              font-size: 1.6rem;
+              border: solid 0.1rem #e8eaef;
+              flex-shrink: 0;
+              overflow: hidden;
+              position: relative;
+              color: #8c94a3;
+              font-family: Cairo, 'Source Sans Pro';
+              background-color: #ffffff;
+              padding: 0.8rem 1.1rem 0.8rem 45.2rem;
+              height: 11.2rem;
+              font-weight: 400;
+              width: 100%;
+              line-height: 1.5;
+              white-space: nowrap;
+            }
+          }
+        }
+        .buttons-a5p {
+          letter-spacing: -0.018rem;
+          justify-content: center;
+          width: 10.2rem;
+          font-weight: 600;
+          text-transform: capitalize;
+          color: #ffffff;
+          font-family: Cairo, 'Source Sans Pro';
+          font-size: 1.8rem;
+          line-height: 3.1111111111;
+          align-items: center;
+          height: 5.6rem;
+          white-space: nowrap;
+          display: flex;
+          background-color: #ff6636;
+          flex-shrink: 0;
+        }
+      }
+      .image-FSr {
+        flex-shrink: 0;
+        width: 67.7rem;
+        height: 95.7rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .footer-4--aV8 {
+      left: 0;
+      overflow: hidden;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      background-color: #1d2026;
+      box-sizing: border-box;
+      padding: 8rem 6.4rem;
+      width: 192rem;
+      height: 32.1rem;
+      position: absolute;
+      top: 77rem;
+
+      .content-go4 {
+        align-items: center;
+        flex-shrink: 0;
+        margin-bottom: 8rem;
+        width: 100%;
+        height: 2.7rem;
+        display: flex;
+
+        .logo-SGS {
+          width: 6.3rem;
+          height: 2.7rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .auto-group-5z7p-BE2 {
+          box-sizing: border-box;
+          padding: 0.15rem 0rem 0.15rem 60.15rem;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .links-6rn {
+            margin-right: 53.35rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .link-rLA {
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-right: 3.3rem;
+              font-size: 1.6rem;
+              font-weight: 600;
+              line-height: 1.5;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+            }
+            .link-aX4 {
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-right: 3.3rem;
+              font-size: 1.6rem;
+              font-weight: 600;
+              line-height: 1.5;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+            }
+            .link-vL2 {
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-right: 3.4rem;
+              font-size: 1.6rem;
+              font-weight: 600;
+              line-height: 1.5;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+            }
+            .link-3vS {
+              flex-shrink: 0;
+              margin-right: 3.3rem;
+              font-size: 1.6rem;
+              font-weight: 600;
+              line-height: 1.5;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .link-QFC {
+              font-size: 1.6rem;
+              font-weight: 600;
+              line-height: 1.5;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+          .social-links-WZ8 {
+            box-sizing: border-box;
+            padding: 0.3rem 0.3rem 0.3rem 0.7rem;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+
+            .icon-facebook-Rvz {
+              margin-right: 2.2rem;
+              width: 1rem;
+              height: 1.8rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+            .icon-instagram-A7t {
+              flex-shrink: 0;
+              margin-right: 1.7999rem;
+              width: 1.8rem;
+              height: 1.8rem;
+              object-fit: contain;
+              vertical-align: top;
+            }
+            .icon-twitter-h7p {
+              margin: 0.03rem 1.8rem 0rem 0rem;
+              width: 1.8rem;
+              height: 1.53rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+            .icon-linkedin-1PQ {
+              width: 1.8rem;
+              height: 1.8rem;
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+          }
+        }
+      }
+      .credits-8U2 {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        width: 100%;
+
+        .divider-gkS {
+          margin-bottom: 3.2rem;
+          width: 100%;
+          height: 0.1rem;
+          background-color: #ffffff;
+          flex-shrink: 0;
+        }
+        .row-q7Y {
+          margin: 0 61.25rem;
+          width: calc(100% - 122.5rem);
+          height: 2.1rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .text-mWz {
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 2.4rem;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #ffffff;
+            font-family: Roboto, 'Source Sans Pro';
+          }
+          .footer-links-uNJ {
+            align-items: center;
+            flex-shrink: 0;
+            height: 100%;
+            display: flex;
+            column-gap: 2.4rem;
+
+            .link-ean {
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              font-weight: 400;
+              line-height: 1.5;
+              text-decoration-line: underline;
+            }
+            .link-z8r {
+              line-height: 1.5;
+              text-decoration-line: underline;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.4rem;
+              font-weight: 400;
+            }
+            .link-8Vx {
+              font-size: 1.4rem;
+              font-weight: 400;
+              line-height: 1.5;
+              text-decoration-line: underline;
+              color: #ffffff;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+        }
+      }
+    }
+  }
+}
